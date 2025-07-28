@@ -9,6 +9,9 @@ This project contains multiple microservices designed to simulate our production
 - [project_management](https://github.com/acri-st/project-management)
 - [sandbox-ui](https://github.com/acri-st/sandbox-ui)
 
+- [ui-fwk](https://github.com/acri-st/ui-fwk)
+- [admin-ui](https://github.com/acri-st/admin-ui)
+
 ## 🧰 Setup
 
 See each microservice's README for local development instructions.
