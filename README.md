@@ -2,16 +2,22 @@
 
 This project contains multiple microservices designed to simulate our production environment.
 
-## 📦 Microservices list
+## 🧪 What is the Sandbox?
 
-- [storage](https://github.com/acri-st/storage)
-- [vm_management](https://github.com/acri-st/vm-management)
-- [project_management](https://github.com/acri-st/project-management)
-- [sandbox-ui](https://github.com/acri-st/sandbox-ui)  
-- [ui-fwk](https://github.com/acri-st/ui-fwk)
-- [admin-ui](https://github.com/acri-st/admin-ui)
+Sandbox is a service that allows users to develop applications and models using cloud based services and to ease the deployment to the collaborative platform.
 
-## Microservices description
+The Microservices that make up the Sandbox project are the following: 
+- **Authentication** (to be provided by each contributor)
+- **Sandbox UI** [🔗](https://github.com/acri-st/sandbox-ui)  
+- **Project management** [🔗](https://github.com/acri-st/project-management)
+- **VM management** [🔗](https://github.com/acri-st/vm-management)
+- **Storage** [🔗](https://github.com/acri-st/storage)
+- **UI Framework** [🔗](https://github.com/acri-st/ui-fwk)
+- **Admin UI** [🔗](https://github.com/acri-st/admin-ui)
+
+![Sandbox Architecture](https://github.com/acri-st/sandbox-ui/blob/main/docs/architecture.png?raw=true)
+
+## 📄 Microservices description
 
 ### 📦 Storage
 #### What is the Storage?
