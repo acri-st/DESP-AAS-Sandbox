@@ -20,17 +20,21 @@ The Microservices that make up the Sandbox project are the following:
 
 ### 📄 Microservices description
 
-#### 📦 What is the Storage?
+#### 📦 What is the Sandbox UI?
 
-The Storage service is a microservice that handles file storage and repository management. It provides the infrastructure and tools necessary for users to store, manage, and access files, Git repositories, and metadata associated with their projects.
+The sandbox UI is a web application that interfaces with the microservices that comprise the Sandbox ecosystem. It provides a user-friendly interface for testing, debugging, and interacting with various microservices in a controlled sandbox environment.
+The Sandbox UI also uses a common library that contains interfaces to services and styling.  
 
-The Storage Management service handles:
-- **Git Repository Management** Creating, managing, and accessing Git repositories for project files
-- **File Storage** Storing and retrieving files with support for various formats and binary content
-- **Metadata Management** Handling thumbnails, avatars, and other metadata associated with assets
-- **Image Processing** Resizing, cropping, and optimizing images for thumbnails and avatars
-- **Content Delivery** Streaming file content and serving static assets
-- **Integration** Working with other microservices like Asset Management and Auth  
+#### 📦 What is Project Management?
+
+Project Management is a microservice that serves as the central hub for managing projects. It provides a comprehensive interface for creating, organizing, and overseeing sandbox project.
+
+The Project Management UI enables users to:
+- Create and configure new projects
+- Manage project settings and configurations
+- Monitor project status and resources
+- Coordinate with other microservices (Auth, VM management, Storage)
+- Access project development environments and tools  
 
 #### 📦 What is the VM Management?
 
@@ -45,21 +49,17 @@ The VM Management service handles:
 
 This service is a critical component of the Sandbox, providing the development environment where users can build and test their applications before deploying to the main collaborative platform.  
 
-#### 📦 What is Project Management?
+#### 📦 What is the Storage?
 
-Project Management is a microservice that serves as the central hub for managing projects. It provides a comprehensive interface for creating, organizing, and overseeing sandbox project.
+The Storage service is a microservice that handles file storage and repository management. It provides the infrastructure and tools necessary for users to store, manage, and access files, Git repositories, and metadata associated with their projects.
 
-The Project Management UI enables users to:
-- Create and configure new projects
-- Manage project settings and configurations
-- Monitor project status and resources
-- Coordinate with other microservices (Auth, VM management, Storage)
-- Access project development environments and tools  
-
-#### 📦 What is the Sandbox UI?
-
-The sandbox UI is a web application that interfaces with the microservices that comprise the Sandbox ecosystem. It provides a user-friendly interface for testing, debugging, and interacting with various microservices in a controlled sandbox environment.
-The Sandbox UI also uses a common library that contains interfaces to services and styling.  
+The Storage Management service handles:
+- **Git Repository Management** Creating, managing, and accessing Git repositories for project files
+- **File Storage** Storing and retrieving files with support for various formats and binary content
+- **Metadata Management** Handling thumbnails, avatars, and other metadata associated with assets
+- **Image Processing** Resizing, cropping, and optimizing images for thumbnails and avatars
+- **Content Delivery** Streaming file content and serving static assets
+- **Integration** Working with other microservices like Asset Management and Auth
 
 #### 📦 What is the UI framework?
 
