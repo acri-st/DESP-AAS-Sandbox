@@ -1,12 +1,26 @@
-# DESP-AAS-Sandbox
+# DESP-AAS Sandbox
 
 This project contains multiple microservices designed to simulate our production environment.
+
+## Table of Contents
+- [🧪 What is the Sandbox?](https://github.com/acri-st/DESP-AAS-Sandbox/edit/main/README.md#-what-is-the-sandbox)
+- [⚙️ Technical description](https://github.com/acri-st/DESP-AAS-Sandbox/edit/main/README.md#%EF%B8%8F-technical-description)
+  - [🗺️ Architecture](https://github.com/acri-st/DESP-AAS-Sandbox/edit/main/README.md#%EF%B8%8F-architecture)
+  - [📄 Microservices description](https://github.com/acri-st/DESP-AAS-Sandbox/edit/main/README.md#-microservices-description)
+    - [📦 Sandbox UI](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-sandbox-ui)
+    - [📦 Project Management](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-project-management)
+    - [📦 VM Management](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-vm-management)
+    - [📦 Storage](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-storage)
+    - [📦 UI Framework](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-ui-framework)
+    - [📦 Admin UI](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-admin-ui)
+- [🧰 Setup](https://github.com/acri-st/DESP-AAS-Sandbox/edit/main/README.md#-setup)
 
 ## 🧪 What is the Sandbox?
 
 Sandbox is a service that allows users to develop applications and models using cloud based services and to ease the deployment to the collaborative platform.
 
 ## ⚙️ Technical description
+### 🗺️ Architecture
 The Microservices that make up the Sandbox project are the following: 
 - **Authentication** (to be provided by each contributor)
 - **Sandbox UI** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-sandbox-ui) [🔗Repository](https://github.com/acri-st/sandbox-ui)  
