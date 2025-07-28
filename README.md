@@ -25,7 +25,7 @@ The Microservices that make up the Sandbox project are the following:
 The sandbox UI is a web application that interfaces with the microservices that comprise the Sandbox ecosystem. It provides a user-friendly interface for testing, debugging, and interacting with various microservices in a controlled sandbox environment.
 The Sandbox UI also uses a common library that contains interfaces to services and styling.  
 
-#### 📦 What is Project Management?
+#### 📦 What is the Project Management?
 
 Project Management is a microservice that serves as the central hub for managing projects. It provides a comprehensive interface for creating, organizing, and overseeing sandbox project.
 
