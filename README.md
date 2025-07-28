@@ -9,12 +9,12 @@ Sandbox is a service that allows users to develop applications and models using 
 ## ⚙️ Technical description
 The Microservices that make up the Sandbox project are the following: 
 - **Authentication** (to be provided by each contributor)
-- **Sandbox UI** [🔗](https://github.com/acri-st/sandbox-ui)  
-- **Project management** [🔗](https://github.com/acri-st/project-management)
-- **VM management** [🔗](https://github.com/acri-st/vm-management)
-- **Storage** [🔗](https://github.com/acri-st/storage)
-- **UI Framework** [🔗](https://github.com/acri-st/ui-fwk)
-- **Admin UI** [🔗](https://github.com/acri-st/admin-ui)
+- **Sandbox UI** [🔗Repository](https://github.com/acri-st/sandbox-ui)  
+- **Project management** [🔗Repository](https://github.com/acri-st/project-management)
+- **VM management** [🔗Repository](https://github.com/acri-st/vm-management)
+- **Storage** [🔗Repository](https://github.com/acri-st/storage)
+- **UI Framework** [🔗Repository](https://github.com/acri-st/ui-fwk)
+- **Admin UI** [🔗Repository](https://github.com/acri-st/admin-ui)
 
 ![Sandbox Architecture](https://github.com/acri-st/sandbox-ui/blob/main/docs/architecture.png?raw=true)
 
