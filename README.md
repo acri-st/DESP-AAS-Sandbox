@@ -9,12 +9,12 @@ Sandbox is a service that allows users to develop applications and models using 
 ## ⚙️ Technical description
 The Microservices that make up the Sandbox project are the following: 
 - **Authentication** (to be provided by each contributor)
-- **Sandbox UI** [🔗Repository](https://github.com/acri-st/sandbox-ui)  
-- **Project management** [🔗Repository](https://github.com/acri-st/project-management)
-- **VM management** [🔗Repository](https://github.com/acri-st/vm-management)
-- **Storage** [🔗Repository](https://github.com/acri-st/storage)
-- **UI Framework** [🔗Repository](https://github.com/acri-st/ui-fwk)
-- **Admin UI** [🔗Repository](https://github.com/acri-st/admin-ui)
+- **Sandbox UI** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-sandbox-ui) [🔗Repository](https://github.com/acri-st/sandbox-ui)  
+- **Project management** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-project-management) [🔗Repository](https://github.com/acri-st/project-management)
+- **VM management** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-vm-management) [🔗Repository](https://github.com/acri-st/vm-management)
+- **Storage** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-storage) [🔗Repository](https://github.com/acri-st/storage)
+- **UI Framework** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-ui-framework) [🔗Repository](https://github.com/acri-st/ui-fwk)
+- **Admin UI** [📄Description](https://github.com/acri-st/DESP-AAS-Sandbox#-what-is-the-admin-ui) [🔗Repository](https://github.com/acri-st/admin-ui)
 
 ![Sandbox Architecture](https://github.com/acri-st/sandbox-ui/blob/main/docs/architecture.png?raw=true)
 
